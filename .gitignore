@@ -1,0 +1,4 @@
+rabbitmq_data/
+vendor/
+var/
+phpunit.xml.dist/
